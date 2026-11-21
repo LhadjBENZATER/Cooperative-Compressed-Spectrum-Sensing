@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated paper when relevant."
+title: "Cooperative Compressed Spectrum Sensing"
+type: software
+authors:
+  - family-names: Benzater
+    given-names: Hadj Abdelkader
+    orcid: https://orcid.org/0009-0006-2533-0315
+url: https://github.com/LhadjBENZATER/Cooperative-Compressed-Spectrum-Sensing
+repository-code: https://github.com/LhadjBENZATER/Cooperative-Compressed-Spectrum-Sensing
+license: MIT
+keywords:
+  - MATLAB
+  - telecommunications
+  - reproducible-research
+preferred-citation:
+  type: article
+  title: "Enhanced Cooperative Compressive Spectrum Sensing in Cognitive Radio Networks"
+  authors:
+    - family-names: "Benzater"
+      given-names: "Hadj Abdelkader"
+    - family-names: "Teguig"
+      given-names: "Djamal"
+    - family-names: "Lassami"
+      given-names: "Nacerredine"
+  year: 2024
+  doi: 10.1002/ett.70000
+  journal: "Transactions on Emerging Telecommunications Technologies, 35(11), e70000"
