@@ -1,0 +1,7 @@
+Validation date (UTC runner): 2026-11-21 22:58:04
+MATLAB: 24.1.0.3303086 (R2024a) Update 9
+Scope: numerical checks and synthetic onboarding demo; legacy experiments excluded.
+All numerical checks passed.
+CCSS demo completed: 20 paired trials/SNR.
+Demo elapsed seconds: 6.98781
+Validation completed successfully.
